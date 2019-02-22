@@ -3,7 +3,7 @@ layout: default
 title: Joinal's
 description: My webpage
 ---
-# My name is Luiz Eduardo Amaral
+# My name is Joinal AhmedSS
 ### What am I?
 I'm a Machine Learning Engineer with Bachelors's in Computer Science Engineering .
 
