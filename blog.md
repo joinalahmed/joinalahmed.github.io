@@ -1,5 +1,5 @@
 ---
 layout: blog-index
-title: Luxedo's
+title: Joinals's
 description: Test page
 ---

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Luxedo's
+title: Joinal's
 description: My webpage
 ---
 # My name is Luiz Eduardo Amaral
 ### What am I?
-I'm a Physicist with master's in Engineering and Materials Sciences and working in software development.
+I'm a Machine Learning Engineer with Bachelors's in Computer Science Engineering .
 
-Currently I'm studying to become a `Data Scientist` and messing a little with `web development`.
-Among the things I like there are *rock climbing*, *cycling* and *open source*.
+Currently I'm studying to become a `Data Scientist` and messing a little with `Cloud Management`.
+Among the things I like there are *reading*, *teaching* and *open source*.
 
 My personal projects and other stuff are available in the bar above.
 

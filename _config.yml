@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Luiz Eduardo Amaral"
-author: "Luiz Eduardo Amaral"
-email: "luizamaral306@gmail.com"
+title: "Joinal Ahmed"
+author: "Joinal Ahmed"
+email: "joinalahmed@gmail.com"
 description: My portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://luxedo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,23 +24,23 @@ url: "http://luxedo.github.io/" # the base hostname & protocol for your site, e.
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "luxedo"
-facebook_username: "luiz.e.amaral"
-twitter_username: "ArmlessJohn404"
-linkedin_id: "luiz-amaral-85351328"
+github_username: "joinalahmed"
+facebook_username: "joinalahmed"
+twitter_username: "joinal_ahmed"
+linkedin_id: "joinalahmed"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
 remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
 theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
-theme_base: "dark"       # Theme palette (light | dark)
+theme_base: "light"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Luiz Amaral and I like making and breaking stuff."
+avatar_image: "assets/img/joy.jpg"
+avatar_description: "My name is Luiz Joinal and I like making and breaking stuff."
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
